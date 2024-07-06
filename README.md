@@ -6,11 +6,15 @@ Google oyun ve uygulama akademisi bootcamp 92.grup olarak geliştirme sürecinde
 # Ürün ile İlgili Bilgiler
 
 ## Ekip Üyeleri 
-- Zeynep Uğuş: Scrum Master
-- Sefer Çınar: Product Owner- Developer
-- Samet Yasıt: Developer
-- Şevval Durmaz: Developar
-- Zülal Kahraman: Pasif 
+# Proje Ekibi
+
+| Fotoğraf          | İsim            | Görev                        | Sosyal Medya          |
+| ----------------- | --------------- | ---------------------------- | --------------------- |
+| ![Sefer Çınar](foto_url_1) | Sefer Çınar     | Product Owner, Developer     | [LinkedIn](#https://www.linkedin.com/in/sefercinar/)         |
+| ![Zeynep Uğuş](foto_url_2) | Zeynep Uğuş     | Scrum Master                 | [LinkedIn](#https://www.linkedin.com/in/zeynepugus/)         |
+| ![Şevval Durmaz](foto_url_3) | Şevval Durmaz   | Developer                    | [LinkedIn](#https://www.linkedin.com/in/sevvaldurmaz1)         |
+| ![Samet Yasıt](foto_url_4) | Samet Yasıt     | Developer                    | [LinkedIn](#https://www.linkedin.com/in/samet-yas%C4%B1t-762556254/)         |
+| ![Zülal Kahraman](foto_url_5) | Zülal Kahraman  | -                            | [LinkedIn](#)         |
 ## Ürün İsmi
 ### --Rutin--
 ## Ürün Açıklaması
