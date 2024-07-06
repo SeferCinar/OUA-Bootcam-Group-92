@@ -8,7 +8,7 @@ Google oyun ve uygulama akademisi bootcamp 92.grup olarak geliştirme sürecinde
 ## Ekip Üyeleri 
 - Zeynep Uğuş: Scrum Master
 - Sefer Çınar: Product Owner- Developer
-- Samet Yasıt: Developer
+- Samet Yasıt: Developerrrrrrrr
 - Şevval Durmaz: Developar
 - Zülal Kahraman: Pasif 
 ## Ürün İsmi
