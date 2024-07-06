@@ -33,3 +33,11 @@ Google oyun ve uygulama akademisi bootcamp 92.grup olarak geliştirme sürecinde
  Daily Scrum toplantılarını Zoom ve Meet üzerinden gerçekleştirdik. Toplantılarımızdan birkaç anı aşağıya ekledik:
 
 Toplantı notlarımızın olduğu notion sayfası::
+
+| Fotoğraf          | İsim            | Görev                        | Sosyal Medya          |
+| ----------------- | --------------- | ---------------------------- | --------------------- |
+| ![Sefer Çınar](foto_url_1) | Sefer Çınar     | Product Owner, Developer     | [LinkedIn](#)         |
+| ![Zeynep Uğuş](foto_url_2) | Zeynep Uğuş     | Scrum Master                 | [LinkedIn](#)         |
+| ![Şevval Durmaz](foto_url_3) | Şevval Durmaz   | Developer                    | [LinkedIn](#)         |
+| ![Samet Yasıt](foto_url_4) | Samet Yasıt     | Developer                    | [LinkedIn](#)         |
+| ![Zülal Kahraman](foto_url_5) | Zülal Kahraman  | -                            | [LinkedIn](#)         |
