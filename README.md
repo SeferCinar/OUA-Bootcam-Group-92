@@ -31,8 +31,6 @@
 	- Proje boyunca tamamlanması beklenilen puan 400 olarak belirlenmiştir
 	-  İlk Sprint içinde tamamlanması beklenilen puan 100 olarak belirlenmiştir
 	-  İlk sprintimizin genel amacı uygulamamızın hedefi ve vizyonunu belirlemek
-
-
 - ### Daily Scrum: 
 Genel Notlarımız, Görev takibi ve ortak bir çalışma alanı için Notion kullandık
  Daily Scrum toplantılarını Zoom ve Meet üzerinden gerçekleştirdik. Toplantılarımızdan birkaç anı aşağıya ekledik:
@@ -49,6 +47,7 @@ Toplantı notlarımızın olduğu Notion sayfası: [Notion](https://www.notion.s
 - Uygulama logo renginde değişikliğe gidildi
 - Marka bilinirliği için instagram hesabı açıldı
 - Uygulamanın teknik kısmına 2.Sprintte başlanmasına karar verildi
+### [Product Backlog URL :](https://www.notion.so/560a038872b8421bbcbeabfa476f0683?v=4f8f7c8cc8604cb1bd355040ebd83e3e&pvs=4)
 ### Bir sonraki Sprint için hedefler
 - Product backlog'umuzdaki ana hedefleri daha takip edilebilir alt görevlere ayırıp görev dağılımını sağlamak
 - User Story'lerin belirlenmesi
