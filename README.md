@@ -19,11 +19,11 @@
 ## Ürün İsmi
 ### --Rutin--
 ## Ürün Açıklaması
-### "Rutin" insanların kazanmak istediği faydalı alışkanlıkları daha kolay edinmesi, bu yolda motive olması ve alışkanlıklarını takip etmesi için tasarlandı 
+### "Rutin" insanların kazanmak istediği faydalı alışkanlıkları daha kolay edinmesi, bu yolda motive olması ve alışkanlıklarını takip etmesi için tasarlandı.
 ## Hedef Kitle
 - Yeni alışkanlıklar edinmek isteyenler 
 - Yoğun çalışan profesyoneller
-- Sınava Hazırlanan Öğrenciler
+- Sınava hazırlanan Öğrenciler
 - Sağlıklı bir yaşam isteyenler
 
 # Sprint 1
@@ -31,6 +31,16 @@
 	- Proje boyunca tamamlanması beklenilen puan 400 olarak belirlenmiştir
 	-  İlk Sprint içinde tamamlanması beklenilen puan 100 olarak belirlenmiştir
 	-  İlk sprintimizin genel amacı uygulamamızın hedefi ve vizyonunu belirlemek
+    
+ |  Görev                | Öncelik | Puan | Durum         |
+|----------------------|---------|------|---------------|
+| Uygulama fikri bulma    | Yüksek  | 25   | Tamamlandı |
+| Uygulama ismi bulma | Orta    | 10   | Tamamlandı     |
+| Proje tanımı ve kapsamının belirlenmesi   | Yüksek  | 25    | Tamamlandı     |
+| Görevlerin dağılımının yapılması   | Orta    | 15    | Tamamlandı  |
+| Uygulama logosu tasarlanması  | Orta    | 10    | Tamamlandı   |
+| Uygulama tasarımı belirlenmesi  | Orta    | 15    | Tamamlandı   |
+
 - ### Daily Scrum:
   
 Genel notlarımız, görev takibi ve ortak bir çalışma alanı için Notion kullandık.
@@ -60,14 +70,14 @@ Daily Scrum toplantılarını Zoom ve Meet üzerinden gerçekleştirdik. Toplant
 </details>
 	
 ## Sprint Review
-- İlk sprint için belirlediğimiz hedeflerin tamamını gerçekleştirdik
-- Uygulamamızın amacı, ismi ve logosu gibi kritik öneme sahip unsurlar belirlenmiştir
+- İlk sprint için belirlediğimiz hedeflerin tamamını gerçekleştirdik.
+- Uygulamamızın amacı, ismi ve logosu gibi kritik öneme sahip unsurlar belirlendi.
 ## Sprint Retrospective 
-- Uygulama logo renginde değişikliğe gidildi
-- Marka bilinirliği için instagram hesabı açıldı
-- Uygulamanın teknik kısmına 2.Sprintte başlanmasına karar verildi
-- Uygulama özelliklerinin 2. Sprintte belirlenmesine karar verildi
+- Uygulama logo renginde değişikliğe gidildi.
+- Marka bilinirliği için instagram hesabı açıldı.
+- Uygulamanın teknik kısmına 2.Sprintte başlanmasına karar verildi.
+- Uygulama özelliklerinin 2. Sprintte belirlenmesine karar verildi.
 ### [Product Backlog URL :](https://www.notion.so/560a038872b8421bbcbeabfa476f0683?v=4f8f7c8cc8604cb1bd355040ebd83e3e&pvs=4)
 ### Bir sonraki Sprint için hedefler
-- Product backlog'umuzdaki ana hedefleri daha takip edilebilir alt görevlere ayırıp görev dağılımını sağlamak
-- User Story'lerin belirlenmesi
+- Product backlog'umuzdaki ana hedefleri daha takip edilebilir alt görevlere ayırıp görev dağılımını sağlamak.
+- User Story'leri belirlemek.
