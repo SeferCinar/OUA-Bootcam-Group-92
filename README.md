@@ -40,6 +40,8 @@ Genel Notlarımız, Görev takibi ve ortak bir çalışma alanı için Notion ku
 
 Toplantı notlarımızın olduğu Notion sayfası: [Notion](https://www.notion.so/a923d27dea734013b771ec9fd3fac467?v=22c5e9dcb9f04e788226a4ec295d94c1&pvs=4)
 Örnek Toplantı Notu:  ![Toplantı](https://i.imgur.com/i8hH6D7.jpeg)
+
+WhatsApp Konuşmalarımız: ![WhatsApp](https://imgur.com/a/whatsapp-konu-malar-UQOATA2)
 ## Sprint Review
 - İlk sprint için belirlediğimiz hedeflerin tamamını gerçekleştirdik
 - Uygulamamızın amacı, ismi ve logosu gibi kritik öneme sahip unsurlar belirlenmiştir
