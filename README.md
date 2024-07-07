@@ -41,6 +41,9 @@
 | Uygulama logosu tasarlanması  | Orta    | 10    | Tamamlandı   |
 | Uygulama tasarımı belirlenmesi  | Orta    | 15    | Tamamlandı   |
 
+<strong>Sprint Boad Update</strong>
+  ![sprint board](https://i.imgur.com/ZGk17cQ.jpeg)
+
 - ### Daily Scrum:
   
 Genel notlarımız, görev takibi ve ortak bir çalışma alanı için Notion kullandık.
@@ -77,7 +80,7 @@ Daily Scrum toplantılarını Zoom ve Meet üzerinden gerçekleştirdik. Toplant
 - Marka bilinirliği için instagram hesabı açıldı.
 - Uygulamanın teknik kısmına 2.Sprintte başlanmasına karar verildi.
 - Uygulama özelliklerinin 2. Sprintte belirlenmesine karar verildi.
-### [Product Backlog URL :](https://www.notion.so/560a038872b8421bbcbeabfa476f0683?v=4f8f7c8cc8604cb1bd355040ebd83e3e&pvs=4)
+### [Product Backlog URL ](https://www.notion.so/560a038872b8421bbcbeabfa476f0683?v=4f8f7c8cc8604cb1bd355040ebd83e3e&pvs=4)
 ### Bir sonraki Sprint için hedefler
 - Product backlog'umuzdaki ana hedefleri daha takip edilebilir alt görevlere ayırıp görev dağılımını sağlamak.
 - User Story'leri belirlemek.
