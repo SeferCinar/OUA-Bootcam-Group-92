@@ -1,6 +1,6 @@
 # OUA-Bootcamp-Group-92
 
-![RUTİN](https://i.imgur.com/T8Z1c1b.png)
+![RUTİN](https://i.imgur.com/nBVmfaN.png)
 # Takım İsmi
  ### Grup 92 
 
@@ -14,7 +14,7 @@
 |  <img src="https://i.imgur.com/6smeS8v.jpeg" alt="Zeynep Uğuş" width="80"/>     | Şevval Durmaz   | Developer                    | [<img src="https://i.imgur.com/3LeRUui.png" alt="LinkedIn Logo" width="20"/>](https://www.linkedin.com/in/sevvaldurmaz1/) [<img src="https://i.imgur.com/7ECfYeQ.png" alt="GitHub Logo" width="20"/>](https://github.com/sevvaldurmaz1) |
 |    <img src="https://i.imgur.com/nQnrgli.jpeg" alt="Zeynep Uğuş" width="80"/>   | Samet Yasıt     | Developer                    | [<img src="https://i.imgur.com/3LeRUui.png" alt="LinkedIn Logo" width="20"/>](https://www.linkedin.com/in/samet-yas%C4%B1t-762556254/) [<img src="https://i.imgur.com/7ECfYeQ.png" alt="GitHub Logo" width="20"/>](https://github.com/SametYASIT) |
 | -   | Zülal Kahraman  | -                            | - |
-|   <img src="https://i.imgur.com/K4nKvFN.png" alt="Rutin" width="80"/>  | Rutin   | Startup     | [<img src="https://i.imgur.com/lVgZDJS.jpeg" alt="İnstagram Logo" width="20"/>](https://www.instagram.com/rutin.rr?igsh=MWs4dDBrM2NtMTBrbg%3D%3D&utm_source=qr)
+|   <img src="https://i.imgur.com/wBhRcD0.png" alt="Rutin" width="80"/>  | Rutin   | Startup     | [<img src="https://i.imgur.com/lVgZDJS.jpeg" alt="İnstagram Logo" width="20"/>](https://www.instagram.com/rutin.rr?igsh=MWs4dDBrM2NtMTBrbg%3D%3D&utm_source=qr)
 
 ## Ürün İsmi
 ### --Rutin--
