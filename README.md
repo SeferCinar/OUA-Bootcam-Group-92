@@ -84,3 +84,46 @@ Daily Scrum toplantılarını Zoom ve Meet üzerinden gerçekleştirdik. Toplant
 ### Bir sonraki Sprint için hedefler
 - Product backlog'umuzdaki ana hedefleri daha takip edilebilir alt görevlere ayırıp görev dağılımını sağlamak.
 - User tor'leri belirlemek.
+
+  # Sprint 2
+  - ### Sprint Notları
+	-
+	-  
+	-  
+    
+ |  Görev                | Öncelik | Puan | Durum         |
+|----------------------|---------|------|---------------|
+|   |   |    |  |
+|   |   |    |  |
+|   |   |    |  |
+|   |   |    |  |
+|   |   |    |  |
+|   |   |    |  |
+|   |   |    |  |
+
+.
+.
+.
+- ### Daily Scrum:
+.
+.
+.
+
+  <strong>Toplantı notlarımızın olduğu Notion sayfası:</strong> [Notion](https://www.notion.so/a923d27dea734013b771ec9fd3fac467?v=22c5e9dcb9f04e788226a4ec295d94c1&pvs=4)
+  
+  <details>
+<summary><strong>WhatsApp Konuşmalarımız</strong></summary>
+.
+.
+.
+</details>
+
+## Sprint Review
+.
+.
+.
+## Sprint Retrospective
+.
+.
+.
+### Bir sonraki Sprint için hedefler
