@@ -41,7 +41,7 @@
 | Uygulama logosu tasarlanması  | Orta    | 10    | Tamamlandı   |
 | Uygulama tasarımı belirlenmesi  | Orta    | 15    | Tamamlandı   |
 
-<strong>Sprint Boad Update</strong>
+<strong>Sprint Board Update</strong>
   ![sprint board](https://i.imgur.com/ZGk17cQ.jpeg)
 
 - ### Daily Scrum:
@@ -101,13 +101,17 @@ Daily Scrum toplantılarını Zoom ve Meet üzerinden gerçekleştirdik. Toplant
 |   |   |    |  |
 |   |   |    |  |
 
-.
-.
-.
+<strong>Sprint 2 Board Update</strong>
+  ![sprint board](https://i.imgur.com/v2HEJNM.jpeg)
+  
 - ### Daily Scrum:
 .
 .
 .
+![Tasarım](https://i.imgur.com/0mEidSY.jpeg)
+ ---
+![Toplantı](https://i.imgur.com/I1l6Uiz.jpeg)
+
 
   <strong>Toplantı notlarımızın olduğu Notion sayfası:</strong> [Notion](https://www.notion.so/a923d27dea734013b771ec9fd3fac467?v=22c5e9dcb9f04e788226a4ec295d94c1&pvs=4)
   
