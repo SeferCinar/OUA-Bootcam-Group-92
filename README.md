@@ -106,6 +106,8 @@ Daily Scrum toplantılarını Zoom ve Meet üzerinden gerçekleştirdik. Toplant
   
 - ### Daily Scrum:
 
+
+-### Ürün Durumu:
 ![Tasarım](https://i.imgur.com/0mEidSY.jpeg)
 ![Tasarım](https://i.imgur.com/xgcpJIU.jpeg)
  ---
