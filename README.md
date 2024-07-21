@@ -69,7 +69,6 @@ Daily Scrum toplantılarını Zoom ve Meet üzerinden gerçekleştirdik. Toplant
 ![WhatsApp Konuşması 6](https://i.imgur.com/lCfKhbR.png)
 ![WhatsApp Konuşması 7](https://i.imgur.com/rkIn1bT.png)
 
-
 </details>
 	
 ## Sprint Review
