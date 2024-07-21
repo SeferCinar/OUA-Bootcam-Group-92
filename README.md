@@ -86,10 +86,10 @@ Daily Scrum toplantılarını Zoom ve Meet üzerinden gerçekleştirdik. Toplant
 - User tor'leri belirlemek.
 
   # Sprint 2
-  - ### Sprint Notları
-	-
-	-  
-	-  
+  ### Sprint Notları
+	-  Proje boyunca tamamlanması beklenilen puan 400 olarak belirlenmiştir
+	-  İkinci Sprint içinde tamamlanması beklenilen puan 150 olarak belirlenmiştir
+	-  İkinci Sprintimizin genel amacı UI ,UX tasarımlarının yapılması ve kullanıcı hikayelerinin belirlenmesi
     
  |  Görev                | Öncelik | Puan | Durum         |
 |----------------------|---------|------|---------------|
@@ -124,11 +124,11 @@ Daily Scrum toplantılarını Zoom ve Meet üzerinden gerçekleştirdik. Toplant
 </details>
 
 ## Sprint Review
-.
-.
-.
-## Sprint Retrospective
-.
-.
-.
+- Uygulamamızın temel arayüz tasarımını oluşturduk
+- Ekipçe Figmada tecrübe kazandık
+- Kullanıcı Hikayelerini tamamladık
+## Sprint Retrospective 
+- Daha sade ve anlaşılır bir arayüz tasarlanması konusunda karar alındı
+- Bazı uygulama özellikerinin öncelik sırası değiştirildi
+- Uygulamamıza yapay zeka eklentisi entegre ettik
 ### Bir sonraki Sprint için hedefler
