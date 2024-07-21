@@ -50,7 +50,7 @@ Genel notlarımız, görev takibi ve ortak bir çalışma alanı için Notion ku
 
 Daily Scrum toplantılarını Zoom ve Meet üzerinden gerçekleştirdik. Toplantılarımızdan birkaç anı aşağıya ekledik:
 
-![Toplantı](https://i.imgur.com/7ROACUA.png)
+ ![Toplantı](https://i.imgur.com/7ROACUA.png)
  ---
 ![Toplantı](https://i.imgur.com/2cwyeyE.jpg)
 
@@ -105,6 +105,12 @@ Daily Scrum toplantılarını Zoom ve Meet üzerinden gerçekleştirdik. Toplant
   ![sprint board](https://i.imgur.com/v2HEJNM.jpeg)
   
 - ### Daily Scrum:
+- ### Ürün Durumu
+![Tasarım](https://i.imgur.com/xgcpJIU.jpeg)
+ ---
+![Tasarım](https://i.imgur.com/0mEidSY.jpeg)
+ ---
+![Toplantı](https://i.imgur.com/I1l6Uiz.jpeg)
 
 
   <strong>Toplantı notlarımızın olduğu Notion sayfası:</strong> [Notion](https://www.notion.so/a923d27dea734013b771ec9fd3fac467?v=22c5e9dcb9f04e788226a4ec295d94c1&pvs=4)
@@ -120,13 +126,6 @@ Daily Scrum toplantılarını Zoom ve Meet üzerinden gerçekleştirdik. Toplant
 ![WhatsApp Konuşması 6](https://i.imgur.com/nYDRzES.png)
 
 </details>
-
- ---
-![Toplantı](https://i.imgur.com/I1l6Uiz.jpeg)
-
--### Ürün Durumu 
-![Tasarım](https://i.imgur.com/0mEidSY.jpeg)
-![Tasarım](https://i.imgur.com/xgcpJIU.jpeg)
 
 ## Sprint Review
 - Uygulamamızın temel arayüz tasarımını oluşturduk
