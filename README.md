@@ -106,7 +106,7 @@ Daily Scrum toplantılarını Zoom ve Meet üzerinden gerçekleştirdik. Toplant
   
 - ### Daily Scrum:
 
-![Tasarım](https://i.imgur.com/0mEidSY.jpeg)
+
  ---
 ![Toplantı](https://i.imgur.com/I1l6Uiz.jpeg)
 
@@ -124,6 +124,9 @@ Daily Scrum toplantılarını Zoom ve Meet üzerinden gerçekleştirdik. Toplant
 ![WhatsApp Konuşması 6](https://i.imgur.com/nYDRzES.png)
 
 </details>
+-### Ürün Durumu 
+![Tasarım](https://i.imgur.com/0mEidSY.jpeg)
+![Tasarım](https://i.imgur.com/xgcpJIU.jpeg)
 
 ## Sprint Review
 - Uygulamamızın temel arayüz tasarımını oluşturduk
