@@ -45,7 +45,7 @@
   ![sprint board](https://i.imgur.com/ZGk17cQ.jpeg)
 
 - ### Daily Scrum:
-  
+   ---
 Genel notlarımız, görev takibi ve ortak bir çalışma alanı için Notion kullandık.
 
 Daily Scrum toplantılarını Zoom ve Meet üzerinden gerçekleştirdik. Toplantılarımızdan birkaç anı aşağıya ekledik:
@@ -83,7 +83,7 @@ Daily Scrum toplantılarını Zoom ve Meet üzerinden gerçekleştirdik. Toplant
 ### [Product Backlog URL ](https://www.notion.so/560a038872b8421bbcbeabfa476f0683?v=4f8f7c8cc8604cb1bd355040ebd83e3e&pvs=4)
 ### Bir sonraki Sprint için hedefler
 - Product backlog'umuzdaki ana hedefleri daha takip edilebilir alt görevlere ayırıp görev dağılımını sağlamak.
-- User tor'leri belirlemek.
+- User storyleri belirlemek.
 
   # Sprint 2
   ### Sprint Notları
@@ -104,14 +104,13 @@ Daily Scrum toplantılarını Zoom ve Meet üzerinden gerçekleştirdik. Toplant
 <strong>Sprint 2 Board Update</strong>
   ![sprint board](https://i.imgur.com/v2HEJNM.jpeg)
   
+  
 - ### Daily Scrum:
-
-
--### Ürün Durumu:
-![Tasarım](https://i.imgur.com/0mEidSY.jpeg)
-![Tasarım](https://i.imgur.com/xgcpJIU.jpeg)
  ---
 ![Toplantı](https://i.imgur.com/I1l6Uiz.jpeg)
+
+
+
 
 
   <strong>Toplantı notlarımızın olduğu Notion sayfası:</strong> [Notion](https://www.notion.so/a923d27dea734013b771ec9fd3fac467?v=22c5e9dcb9f04e788226a4ec295d94c1&pvs=4)
@@ -127,6 +126,10 @@ Daily Scrum toplantılarını Zoom ve Meet üzerinden gerçekleştirdik. Toplant
 ![WhatsApp Konuşması 6](https://i.imgur.com/nYDRzES.png)
 
 </details>
+
+- ### Ürün Durumu:
+![Tasarım](https://i.imgur.com/0mEidSY.jpeg)
+![Tasarım](https://i.imgur.com/xgcpJIU.jpeg)
 
 ## Sprint Review
 - Uygulamamızın temel arayüz tasarımını oluşturduk
