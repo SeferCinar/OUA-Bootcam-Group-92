@@ -132,3 +132,7 @@ Daily Scrum toplantılarını Zoom ve Meet üzerinden gerçekleştirdik. Toplant
 - Bazı uygulama özellikerinin öncelik sırası değiştirildi
 - Uygulamamıza yapay zeka eklentisi entegre ettik
 ### Bir sonraki Sprint için hedefler
+- Uygulamanın teknik olarak kullanılabilir hale gelmesi
+- UI,UX tasarımlarının nihayete ermesi
+- Bug fix aşamaları
+- Uygulamayı teslim etmek
