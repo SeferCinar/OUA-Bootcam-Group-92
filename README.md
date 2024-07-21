@@ -93,21 +93,19 @@ Daily Scrum toplantılarını Zoom ve Meet üzerinden gerçekleştirdik. Toplant
     
  |  Görev                | Öncelik | Puan | Durum         |
 |----------------------|---------|------|---------------|
-|   |   |    |  |
-|   |   |    |  |
-|   |   |    |  |
-|   |   |    |  |
-|   |   |    |  |
-|   |   |    |  |
-|   |   |    |  |
+|  Flutter Projesinin Oluşturulması | Yüksek  | 10   | Tamamlandı |
+|  Proje Dosyasının Github'a Yüklenmesi | Yüksek  |  15  |Tamamlandı  |
+|  Firebase'de Proje Açma | Yüksek |  20  | Tamamlandı |
+|  Senkronun Sağlanması |  Yüksek | 30   | Tamamlandı |
+|  Flutter Projesine Firebase Eklemek| Yüksek  |  30  | Tamamlandı |
+| Kullanıcı hikayelerinin Tamamlanması  |  Yüksek |  25 | Tamamlandı |
+|  Projenin herkes tarafından Locale alınması | Yüksek  |  20  | Tamamlandı |
 
 <strong>Sprint 2 Board Update</strong>
   ![sprint board](https://i.imgur.com/v2HEJNM.jpeg)
   
 - ### Daily Scrum:
-.
-.
-.
+
 ![Tasarım](https://i.imgur.com/0mEidSY.jpeg)
  ---
 ![Toplantı](https://i.imgur.com/I1l6Uiz.jpeg)
