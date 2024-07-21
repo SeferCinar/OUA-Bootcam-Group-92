@@ -105,6 +105,18 @@ Daily Scrum toplantılarını Zoom ve Meet üzerinden gerçekleştirdik. Toplant
   ![sprint board](https://i.imgur.com/v2HEJNM.jpeg)
   
 - ### Daily Scrum:
+  <strong>Toplantı notlarımızın olduğu Notion sayfası:</strong> [Notion](https://www.notion.so/a923d27dea734013b771ec9fd3fac467?v=22c5e9dcb9f04e788226a4ec295d94c1&pvs=4)
+  
+  <details>
+ <summary><strong>WhatsApp Konuşmalarımız</strong></summary>
+	  
+ ![WhatsApp Konuşması 1](https://i.imgur.com/zS62HOQ.png)
+ ![WhatsApp Konuşması 2](https://i.imgur.com/QlWMUMU.png)
+ ![WhatsApp Konuşması 3](https://i.imgur.com/9fr59i5.png)
+ ![WhatsApp Konuşması 4](https://i.imgur.com/7EA06mM.png)
+ ![WhatsApp Konuşması 5](https://i.imgur.com/M79AV5G.png)
+ ![WhatsApp Konuşması 6](https://i.imgur.com/nYDRzES.png)
+ </details>
 - ### Ürün Durumu
 ![Tasarım](https://i.imgur.com/xgcpJIU.jpeg)
  ---
@@ -113,19 +125,7 @@ Daily Scrum toplantılarını Zoom ve Meet üzerinden gerçekleştirdik. Toplant
 ![Toplantı](https://i.imgur.com/I1l6Uiz.jpeg)
 
 
-  <strong>Toplantı notlarımızın olduğu Notion sayfası:</strong> [Notion](https://www.notion.so/a923d27dea734013b771ec9fd3fac467?v=22c5e9dcb9f04e788226a4ec295d94c1&pvs=4)
-  
-  <details>
-<summary><strong>WhatsApp Konuşmalarımız</strong></summary>
-	  
-![WhatsApp Konuşması 1](https://i.imgur.com/zS62HOQ.png)
-![WhatsApp Konuşması 2](https://i.imgur.com/QlWMUMU.png)
-![WhatsApp Konuşması 3](https://i.imgur.com/9fr59i5.png)
-![WhatsApp Konuşması 4](https://i.imgur.com/7EA06mM.png)
-![WhatsApp Konuşması 5](https://i.imgur.com/M79AV5G.png)
-![WhatsApp Konuşması 6](https://i.imgur.com/nYDRzES.png)
 
-</details>
 
 ## Sprint Review
 - Uygulamamızın temel arayüz tasarımını oluşturduk
