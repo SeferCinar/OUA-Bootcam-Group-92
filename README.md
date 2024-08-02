@@ -41,11 +41,11 @@
 | Uygulama logosu tasarlanması  | Orta    | 10    | Tamamlandı   |
 | Uygulama tasarımı belirlenmesi  | Orta    | 15    | Tamamlandı   |
 
-<strong>Sprint Boad Update</strong>
+<strong>Sprint Board Update</strong>
   ![sprint board](https://i.imgur.com/ZGk17cQ.jpeg)
 
 - ### Daily Scrum:
-  
+   ---
 Genel notlarımız, görev takibi ve ortak bir çalışma alanı için Notion kullandık.
 
 Daily Scrum toplantılarını Zoom ve Meet üzerinden gerçekleştirdik. Toplantılarımızdan birkaç anı aşağıya ekledik:
@@ -83,5 +83,106 @@ Daily Scrum toplantılarını Zoom ve Meet üzerinden gerçekleştirdik. Toplant
 ### [Product Backlog URL ](https://www.notion.so/560a038872b8421bbcbeabfa476f0683?v=4f8f7c8cc8604cb1bd355040ebd83e3e&pvs=4)
 ### Bir sonraki Sprint için hedefler
 - Product backlog'umuzdaki ana hedefleri daha takip edilebilir alt görevlere ayırıp görev dağılımını sağlamak.
+<<<<<<< HEAD
 - User Story'leri belirlemek.
+
+=======
+- User storyleri belirlemek.
+
+  # Sprint 2
+  ### Sprint Notları
+	-  Proje boyunca tamamlanması beklenilen puan 400 olarak belirlenmiştir
+	-  İkinci Sprint içinde tamamlanması beklenilen puan 150 olarak belirlenmiştir
+	-  İkinci Sprintimizin genel amacı UI ,UX tasarımlarının yapılması ve kullanıcı hikayelerinin belirlenmesi
+    
+ |  Görev                | Öncelik | Puan | Durum         |
+|----------------------|---------|------|---------------|
+|  Flutter Projesinin Oluşturulması | Yüksek  | 10   | Tamamlandı |
+|  Proje Dosyasının Github'a Yüklenmesi | Yüksek  |  15  |Tamamlandı  |
+|  Firebase'de Proje Açma | Yüksek |  20  | Tamamlandı |
+|  Senkronun Sağlanması |  Yüksek | 30   | Tamamlandı |
+|  Flutter Projesine Firebase Eklemek| Yüksek  |  30  | Tamamlandı |
+| Kullanıcı hikayelerinin Tamamlanması  |  Yüksek |  25 | Tamamlandı |
+|  Projenin herkes tarafından Locale alınması | Yüksek  |  20  | Tamamlandı |
+
+<strong>Sprint 2 Board Update</strong>
+  ![sprint board](https://i.imgur.com/v2HEJNM.jpeg)
+  
+  
+- ### Daily Scrum:
+ ---
+![Toplantı](https://i.imgur.com/I1l6Uiz.jpeg)
+
+
+
+
+
+  <strong>Toplantı notlarımızın olduğu Notion sayfası:</strong> [Notion](https://www.notion.so/a923d27dea734013b771ec9fd3fac467?v=22c5e9dcb9f04e788226a4ec295d94c1&pvs=4)
+  
+  <details>
+<summary><strong>WhatsApp Konuşmalarımız</strong></summary>
+	  
+![WhatsApp Konuşması 1](https://i.imgur.com/zS62HOQ.png)
+![WhatsApp Konuşması 2](https://i.imgur.com/QlWMUMU.png)
+![WhatsApp Konuşması 3](https://i.imgur.com/9fr59i5.png)
+![WhatsApp Konuşması 4](https://i.imgur.com/7EA06mM.png)
+![WhatsApp Konuşması 5](https://i.imgur.com/M79AV5G.png)
+![WhatsApp Konuşması 6](https://i.imgur.com/nYDRzES.png)
+
+</details>
+
+- ### Ürün Durumu:
+![Tasarım](https://i.imgur.com/0mEidSY.jpeg)
+![Tasarım](https://i.imgur.com/xgcpJIU.jpeg)
+
+## Sprint Review
+- Uygulamamızın temel arayüz tasarımını oluşturduk
+- Ekipçe Figmada tecrübe kazandık
+- Kullanıcı Hikayelerini tamamladık
+## Sprint Retrospective 
+- Daha sade ve anlaşılır bir arayüz tasarlanması konusunda karar alındı
+- Bazı uygulama özellikerinin öncelik sırası değiştirildi
+- Uygulamamıza yapay zeka eklentisi entegre ettik
+### Bir sonraki Sprint için hedefler
+- Uygulamanın teknik olarak kullanılabilir hale gelmesi
+- UI,UX tasarımlarının nihayete ermesi
+- Bug fix aşamaları
+- Uygulamayı teslim etmek
+
+  # Sprint 3
+ ### Sprint Notları
+ -
+ -
+ -
+|  Görev                | Öncelik | Puan | Durum         |
+|----------------------|---------|------|---------------|
+|   |   |    |  |
+|   |   |    |  |
+|   |   |    |  |
+|   |   |    |  |
+|   |   |    |  |
+|   |   |    |  |
+
+<strong>Sprint 3 Board Update</strong>
+  ![sprint board]()
+
+  - ### Daily Scrum:
+ ---
+  <strong>Toplantı notlarımızın olduğu Notion sayfası:</strong> [Notion](https://www.notion.so/a923d27dea734013b771ec9fd3fac467?v=22c5e9dcb9f04e788226a4ec295d94c1&pvs=4)
+  
+  <details>
+<summary><strong>WhatsApp Konuşmalarımız</strong></summary>
+	  
+![WhatsApp Konuşması 1](https://i.imgur.com/sAiXxK4.png)
+![WhatsApp Konuşması 2](https://i.imgur.com/2jkRSBa.png)
+![WhatsApp Konuşması 3](https://i.imgur.com/8jkgx0K.png)
+![WhatsApp Konuşması 4](https://i.imgur.com/TIxYqME.png)
+![WhatsApp Konuşması 5](https://i.imgur.com/ltNcyaT.png)
+![WhatsApp Konuşması 6](https://i.imgur.com/JPVGEqa.png)
+
+</details>
+
+## Sprint Review
+
+## Sprint Retrospective
 
