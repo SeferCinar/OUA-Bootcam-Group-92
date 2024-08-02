@@ -144,3 +144,40 @@ Daily Scrum toplantılarını Zoom ve Meet üzerinden gerçekleştirdik. Toplant
 - UI,UX tasarımlarının nihayete ermesi
 - Bug fix aşamaları
 - Uygulamayı teslim etmek
+
+  # Sprint 3
+ ### Sprint Notları
+ -
+ -
+ -
+|  Görev                | Öncelik | Puan | Durum         |
+|----------------------|---------|------|---------------|
+|   |   |    |  |
+|   |   |    |  |
+|   |   |    |  |
+|   |   |    |  |
+|   |   |    |  |
+|   |   |    |  |
+
+<strong>Sprint 3 Board Update</strong>
+  ![sprint board]()
+
+  - ### Daily Scrum:
+ ---
+  <strong>Toplantı notlarımızın olduğu Notion sayfası:</strong> [Notion](https://www.notion.so/a923d27dea734013b771ec9fd3fac467?v=22c5e9dcb9f04e788226a4ec295d94c1&pvs=4)
+  
+  <details>
+<summary><strong>WhatsApp Konuşmalarımız</strong></summary>
+	  
+![WhatsApp Konuşması 1]()
+![WhatsApp Konuşması 2]()
+![WhatsApp Konuşması 3]()
+![WhatsApp Konuşması 4]()
+![WhatsApp Konuşması 5]()
+![WhatsApp Konuşması 6]()
+
+</details>
+
+## Sprint Review
+
+## Sprint Retrospective
