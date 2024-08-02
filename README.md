@@ -156,10 +156,10 @@ Daily Scrum toplantılarını Zoom ve Meet üzerinden gerçekleştirdik. Toplant
   
 |  Görev                | Öncelik | Puan | Durum         |
 |----------------------|---------|------|---------------|
-|  Frontend geliştirilmesi | 50  |  50  | Tamamlandı |
-|  Backend geliştirilmesi |  50 |  50  | Tamamlandı|
-|  Yapay Zeka entegrasyonları |  50 |  10  | Tamamlanamadı |
-|  UI ve UX tasarımının yapılması | 50  |  50  | Tamamlandı |
+|  Frontend geliştirilmesi | Yüksek  |  50  | Tamamlandı |
+|  Backend geliştirilmesi |  Yüksek |  50  | Tamamlandı|
+|  Yapay Zeka entegrasyonları |  Yüksek |  10  | Tamamlanamadı |
+|  UI ve UX tasarımının yapılması | Yüksek  |  50  | Tamamlandı |
 
 
 <strong>Sprint 3 Board Update</strong>
