@@ -153,6 +153,7 @@ Daily Scrum toplantılarını Zoom ve Meet üzerinden gerçekleştirdik. Toplant
  ### Sprint Notları
 -  Proje boyunca tamamlanması beklenilen puan 450 olarak belirlenmiştir
 -  İkinci Sprint içinde tamamlanması beklenilen puan 200 olarak belirlenmiştir.
+-  İkinci Sprint için tamamlanan puan 160. 
   
 |  Görev                | Öncelik | Puan | Durum         |
 |----------------------|---------|------|---------------|
