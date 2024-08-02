@@ -185,6 +185,15 @@ Daily Scrum toplantılarını Zoom ve Meet üzerinden gerçekleştirdik. Toplant
 </details>
 
 ## Sprint Review
+- UI,UX tasarımları tamamlandı
+- Frontend geliştirmesi tamamlandı
+- Uygulama teslim edildi
 
 ## Sprint Retrospective
+- Flutter alanında kendimizi daha çok geliştirme kararı aldık
+
+
+### Bootcampten çıkarılan dersler
+- Takım çalışması ve görev dağılımını öğrendik
+- Görev planlaması ve süreç yönetimini öğrendik
 
