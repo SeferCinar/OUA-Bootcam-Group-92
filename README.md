@@ -28,7 +28,7 @@
 
 # Sprint 1
 - ### Sprint Notları
-	- Proje boyunca tamamlanması beklenilen puan 400 olarak belirlenmiştir
+	- Proje boyunca tamamlanması beklenilen puan 450 olarak belirlenmiştir
 	-  İlk Sprint içinde tamamlanması beklenilen puan 100 olarak belirlenmiştir
 	-  İlk sprintimizin genel amacı uygulamamızın hedefi ve vizyonunu belirlemek
     
@@ -83,7 +83,6 @@ Daily Scrum toplantılarını Zoom ve Meet üzerinden gerçekleştirdik. Toplant
 ### [Product Backlog URL ](https://www.notion.so/560a038872b8421bbcbeabfa476f0683?v=4f8f7c8cc8604cb1bd355040ebd83e3e&pvs=4)
 ### Bir sonraki Sprint için hedefler
 - Product backlog'umuzdaki ana hedefleri daha takip edilebilir alt görevlere ayırıp görev dağılımını sağlamak.
-<<<<<<< HEAD
 - User Story'leri belirlemek.
 
 =======
@@ -91,7 +90,7 @@ Daily Scrum toplantılarını Zoom ve Meet üzerinden gerçekleştirdik. Toplant
 
   # Sprint 2
   ### Sprint Notları
-	-  Proje boyunca tamamlanması beklenilen puan 400 olarak belirlenmiştir
+	-  Proje boyunca tamamlanması beklenilen puan 450 olarak belirlenmiştir
 	-  İkinci Sprint içinde tamamlanması beklenilen puan 150 olarak belirlenmiştir
 	-  İkinci Sprintimizin genel amacı UI ,UX tasarımlarının yapılması ve kullanıcı hikayelerinin belirlenmesi
     
@@ -151,23 +150,26 @@ Daily Scrum toplantılarını Zoom ve Meet üzerinden gerçekleştirdik. Toplant
 
   # Sprint 3
  ### Sprint Notları
- -
- -
- -
+-  Proje boyunca tamamlanması beklenilen puan 450 olarak belirlenmiştir
+-  İkinci Sprint içinde tamamlanması beklenilen puan 200 olarak belirlenmiştir.
+-  İkinci Sprint için tamamlanan puan 160. 
+  
 |  Görev                | Öncelik | Puan | Durum         |
 |----------------------|---------|------|---------------|
-|   |   |    |  |
-|   |   |    |  |
-|   |   |    |  |
-|   |   |    |  |
-|   |   |    |  |
-|   |   |    |  |
+|  Frontend geliştirilmesi | Yüksek  |  50  | Tamamlandı |
+|  Backend geliştirilmesi |  Yüksek |  50  | Tamamlandı|
+|  Yapay Zeka entegrasyonları |  Yüksek |  10  | Tamamlanamadı |
+|  UI ve UX tasarımının yapılması | Yüksek  |  50  | Tamamlandı |
+
 
 <strong>Sprint 3 Board Update</strong>
-  ![sprint board]()
+  ![sprint board](https://i.imgur.com/2immHoc.jpeg)
 
   - ### Daily Scrum:
  ---
+ ![Toplantı](https://i.imgur.com/aygJ6S8.png)
+
+ 
   <strong>Toplantı notlarımızın olduğu Notion sayfası:</strong> [Notion](https://www.notion.so/a923d27dea734013b771ec9fd3fac467?v=22c5e9dcb9f04e788226a4ec295d94c1&pvs=4)
   
   <details>
@@ -183,6 +185,15 @@ Daily Scrum toplantılarını Zoom ve Meet üzerinden gerçekleştirdik. Toplant
 </details>
 
 ## Sprint Review
+- UI,UX tasarımları tamamlandı
+- Frontend geliştirmesi tamamlandı
+- Uygulama teslim edildi
 
 ## Sprint Retrospective
+- Flutter alanında kendimizi daha çok geliştirme kararı aldık
+
+
+### Bootcampten çıkarılan dersler
+- Takım çalışması ve görev dağılımını öğrendik
+- Görev planlaması ve süreç yönetimini öğrendik
 
