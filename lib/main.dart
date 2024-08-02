@@ -5,6 +5,7 @@ import 'ayarlarekrani.dart';
 import 'acilisekrani.dart';
 import 'arkadasekle.dart';
 import 'aliskanlikekle.dart';
+import 'splash_screen.dart'; // Splash screen widget'ınızı import edin
 
 void main() {
   runApp(RutinApp());
@@ -20,7 +21,7 @@ class RutinApp extends StatelessWidget {
       ),
       initialRoute: '/',
       routes: {
-        '/': (context) => HomePage(),
+        '/': (context) =>SplashScreen(),
         '/sureekrani': (context) => TimerPage(),
         '/ayarlarekrani': (context) => AyarlarEkrani(),
         '/acilisekrani': (context) => AcilisEkrani(),
