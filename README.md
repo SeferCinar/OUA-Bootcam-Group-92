@@ -83,7 +83,6 @@ Daily Scrum toplantılarını Zoom ve Meet üzerinden gerçekleştirdik. Toplant
 ### [Product Backlog URL ](https://www.notion.so/560a038872b8421bbcbeabfa476f0683?v=4f8f7c8cc8604cb1bd355040ebd83e3e&pvs=4)
 ### Bir sonraki Sprint için hedefler
 - Product backlog'umuzdaki ana hedefleri daha takip edilebilir alt görevlere ayırıp görev dağılımını sağlamak.
-<<<<<<< HEAD
 - User Story'leri belirlemek.
 
 =======
@@ -164,10 +163,13 @@ Daily Scrum toplantılarını Zoom ve Meet üzerinden gerçekleştirdik. Toplant
 
 
 <strong>Sprint 3 Board Update</strong>
-  ![sprint board]()
+  ![sprint board](https://i.imgur.com/2immHoc.jpeg)
 
   - ### Daily Scrum:
  ---
+ ![Toplantı](https://i.imgur.com/aygJ6S8.png)
+
+ 
   <strong>Toplantı notlarımızın olduğu Notion sayfası:</strong> [Notion](https://www.notion.so/a923d27dea734013b771ec9fd3fac467?v=22c5e9dcb9f04e788226a4ec295d94c1&pvs=4)
   
   <details>
