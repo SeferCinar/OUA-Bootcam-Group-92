@@ -28,7 +28,7 @@
 
 # Sprint 1
 - ### Sprint Notları
-	- Proje boyunca tamamlanması beklenilen puan 400 olarak belirlenmiştir
+	- Proje boyunca tamamlanması beklenilen puan 450 olarak belirlenmiştir
 	-  İlk Sprint içinde tamamlanması beklenilen puan 100 olarak belirlenmiştir
 	-  İlk sprintimizin genel amacı uygulamamızın hedefi ve vizyonunu belirlemek
     
@@ -91,7 +91,7 @@ Daily Scrum toplantılarını Zoom ve Meet üzerinden gerçekleştirdik. Toplant
 
   # Sprint 2
   ### Sprint Notları
-	-  Proje boyunca tamamlanması beklenilen puan 400 olarak belirlenmiştir
+	-  Proje boyunca tamamlanması beklenilen puan 450 olarak belirlenmiştir
 	-  İkinci Sprint içinde tamamlanması beklenilen puan 150 olarak belirlenmiştir
 	-  İkinci Sprintimizin genel amacı UI ,UX tasarımlarının yapılması ve kullanıcı hikayelerinin belirlenmesi
     
@@ -151,9 +151,9 @@ Daily Scrum toplantılarını Zoom ve Meet üzerinden gerçekleştirdik. Toplant
 
   # Sprint 3
  ### Sprint Notları
- -
- -
- -
+-  Proje boyunca tamamlanması beklenilen puan 450 olarak belirlenmiştir
+-  İkinci Sprint içinde tamamlanması beklenilen puan 200 olarak belirlenmiştir.
+  
 |  Görev                | Öncelik | Puan | Durum         |
 |----------------------|---------|------|---------------|
 |   |   |    |  |
